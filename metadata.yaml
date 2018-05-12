@@ -1,4 +1,8 @@
 _repo: Karl-Krinken-His-Christmas-Stocking_48325
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48325-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Warner, Susan
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7605
     wikipedia: http://en.wikipedia.org/wiki/Anna_Bartlett_Warner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48325#Karl-Krinken-His-Christmas-Stocking
 gutenberg_issued: '2015-02-21'
 gutenberg_type: Text
 identifiers:
